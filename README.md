@@ -2,16 +2,6 @@
 <p>Este repositório foi criado com o propósito de fornecer recursos e informações relacionadas ao campo de Machine Learning por alunos do quarto período de Ciência da Computação. Aqui você encontrará o trabalho C3 da disciplina "Análise de Dados".</p>
 
 <p>O trabalho C3 concentra-se em uma análise detalhada de diferentes etapas do processo de Machine Learning, incluindo Análise Exploratória, Feature Engineering, aprendizagem supervisionada e não supervisionada, além da utilização de métricas de avaliação para comparar os modelos empregados no trabalho.</p>
-
-<h2>Integrantes do Grupo</h2>
-
-<ol>
-  <li>Mateus Paulo da Silva</li>
-  <li>Julia Machado</li>
-  <li>Heitor Assad</li>
-  <li>Henrique Quintão</li>
-  <li>Franz Blauth</li>
-<ol>
 <hr>
 <h1>Conteúdo</h1>
 <p><strong>Análise Exploratória</strong>: Esta seção explora o conjunto de dados utilizado no trabalho e fornece insights valiosos por meio de visualizações e análises estatísticas. Aqui você encontrará gráficos, tabelas e outras representações que ajudam a compreender melhor os dados.</p>
@@ -27,3 +17,12 @@
 <h1>Conclusão</h1>
 <p>No arquivo "anotacoes.pdf" você encontrará as observações feitas pelo grupo em relação a análise exploratória e os dados coletados.</p>
 <p>Fique à vontade para explorar o conteúdo deste repositório. Esperamos que essas informações sejam úteis para ampliar seus conhecimentos em Machine Learning e fornecer um ponto de partida sólido para suas próprias análises e projetos futuros.<p>
+<hr>
+<h2>Integrantes do Grupo</h2>
+<ol>
+  <li>Mateus Paulo da Silva</li>
+  <li>Julia Machado</li>
+  <li>Heitor Assad</li>
+  <li>Henrique Quintão</li>
+  <li>Franz Blauth</li>
+<ol>
