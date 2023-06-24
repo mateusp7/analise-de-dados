@@ -4,6 +4,7 @@
 <p>O trabalho C3 concentra-se em uma análise detalhada de diferentes etapas do processo de Machine Learning, incluindo Análise Exploratória, Feature Engineering, aprendizagem supervisionada e não supervisionada, além da utilização de métricas de avaliação para comparar os modelos empregados no trabalho.</p>
 
 <h2>Integrantes do Grupo</h2>
+
 <ol>
   <li>Mateus Paulo da Silva</li>
   <li>Julia Machado</li>
@@ -11,7 +12,7 @@
   <li>Henrique Quintão</li>
   <li>Franz Blauth</li>
 <ol>
-<br>
+<hr>
 <h1>Conteúdo</h1>
 <p><strong>Análise Exploratória</strong>: Esta seção explora o conjunto de dados utilizado no trabalho e fornece insights valiosos por meio de visualizações e análises estatísticas. Aqui você encontrará gráficos, tabelas e outras representações que ajudam a compreender melhor os dados.</p>
 
@@ -22,7 +23,7 @@
 <p><strong>Aprendizagem Não Supervisionada</strong>: Nesta seção, exploraremos os modelos de aprendizagem não supervisionada utilizados no trabalho C3. Discutiremos técnicas como clusterização e redução de dimensionalidade, fornecendo insights sobre como esses métodos podem ser aplicados para explorar padrões ocultos nos dados.</p>
 
 <p><strong>Métricas de Avaliação</strong>: Para avaliar o desempenho dos modelos, é essencial o uso de métricas adequadas. Aqui você encontrará informações sobre as métricas de avaliação utilizadas no trabalho C3 e como interpretar os resultados obtidos. Entenda como comparar e selecionar os modelos com base em seu desempenho.</p>
-<br>
+<hr>
 <h1>Conclusão</h1>
 <p>No arquivo "anotacoes.pdf" você encontrará as observações feitas pelo grupo em relação a análise exploratória e os dados coletados.</p>
 <p>Fique à vontade para explorar o conteúdo deste repositório. Esperamos que essas informações sejam úteis para ampliar seus conhecimentos em Machine Learning e fornecer um ponto de partida sólido para suas próprias análises e projetos futuros.<p>
