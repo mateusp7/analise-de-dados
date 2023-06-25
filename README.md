@@ -31,7 +31,7 @@
   <li>Heitor Assad</li>
   <li>Henrique Quintão</li>
   <li>Franz Blauth</li>
-<ol>
+</ol>
 
 <hr>
 
