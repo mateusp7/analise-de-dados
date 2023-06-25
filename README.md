@@ -20,7 +20,7 @@
 
 <h1>Como rodar o projeto</h1>
 <p>É bem simples, para iniciar o projeto faça o download do dataframe que está <a href="https://www.kaggle.com/c/house-prices-advanced-regression-techniques/data" target="_blank"><strong>nesse link</strong></a>, coloque ela dentro do seu Jupyter Notebook e de um play em todas as células do projeto.<p>
-<p>Caso tenha alguma dúvida do que foi feito, acesse o arquivo "anotacoes.pdf" para entender as análises realizadas.</p>
+<p>Caso tenha alguma dúvida do que foi feito, acesse o arquivo "analises.pdf" para entender as análises realizadas.</p>
 
 <hr>
 
@@ -36,5 +36,5 @@
 <hr>
 
 <h1>Conclusão</h1>
-<p>No arquivo "anotacoes.pdf" você encontrará as observações feitas pelo grupo em relação a análise exploratória e os dados coletados.</p>
+<p>No arquivo "analises.pdf" você encontrará as observações feitas pelo grupo em relação a análise exploratória e os dados coletados.</p>
 <p>Fique à vontade para explorar o conteúdo deste repositório. Esperamos que essas informações sejam úteis para ampliar seus conhecimentos em Machine Learning e fornecer um ponto de partida sólido para suas próprias análises e projetos futuros.<p>
