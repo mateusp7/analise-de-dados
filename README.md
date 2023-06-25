@@ -20,7 +20,7 @@
 
 <h1>Como rodar o projeto</h1>
 <p>É bem simples, para iniciar o projeto faça o download do dataframe que está <a href="https://www.kaggle.com/c/house-prices-advanced-regression-techniques/data" target="_blank"><strong>nesse link</strong></a>, coloque ela dentro do seu Jupyter Notebook e de um play em todas as células do projeto.<p>
-<p>Caso tenha alguma dúdvida do que foi feito, acesse o arquivo "anotacoes.pdf" para entender do que se trata os dados.</p>
+<p>Caso tenha alguma dúvida do que foi feito, acesse o arquivo "anotacoes.pdf" para entender as análises realizadas.</p>
 
 <hr>
 
